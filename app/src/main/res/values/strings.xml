@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">AskPermissions</string>
+    <string name="internet">Ask For Internet Permissions!</string>
+    <string name="audio_source">Ask For Audio Source</string>
+    <string name="read_external">Ask For Read External Storage</string>
+    <string name="write_external">Ask For Write External Storage</string>
+    <string name="camera">Ask For Camera</string>
+</resources>
